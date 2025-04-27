@@ -1,0 +1,21 @@
+[
+    {
+      "image": "/images/portfolio/rollthecredits/thumbnails/IMG_6795.jpg",
+      "name": "Jacob",
+      "folder": "rollthecredits/jacob",
+      "position": "[object-position:50%_20%]"
+    },
+    {
+      "image": "/images/portfolio/rollthecredits/thumbnails/IMG_7264.jpg",
+      "name": "Prom",
+      "folder": "rollthecredits/prom",
+      "position": "[object-position:59%_50%]"
+    },
+    {
+      "image": "/images/portfolio/rollthecredits/thumbnails/IMG_7751.JPG",
+      "name": "Jeremy",
+      "folder": "rollthecredits/jeremy",
+      "position": "[object-position:50%_15%]"
+    }
+]
+

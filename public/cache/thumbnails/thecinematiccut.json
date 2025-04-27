@@ -1,0 +1,63 @@
+[
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/DSC02988.jpg",
+      "name": "Angie",
+      "folder": "thecinematiccut/angie",
+      "position": "[object-position:50%_30%]"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_6029.jpg",
+      "name": "Care + Ella",
+      "folder": "thecinematiccut/careandella",
+      "position": "[object-position:59%_45%]"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_6098.jpg",
+      "name": "Christopher",
+      "folder": "thecinematiccut/christopher"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_9081-2.jpg",
+      "name": "Elijah + Jacob",
+      "folder": "thecinematiccut/elijahandjacob",
+      "position": "[object-position:50%_30%]"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_2704.jpg",
+      "name": "Erin",
+      "folder": "thecinematiccut/erin",
+      "position": "[object-position:50%_30%]"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_4042-3.jpg",
+      "name": "Evan",
+      "folder": "thecinematiccut/evan"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_8362.jpg",
+      "name": "Jesse",
+      "folder": "thecinematiccut/jesse"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_3386.jpg",
+      "name": "Luis",
+      "folder": "thecinematiccut/luis"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_4126.jpg",
+      "name": "Melchor",
+      "folder": "thecinematiccut/melchor"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_0871.jpg",
+      "name": "Sara",
+      "folder": "thecinematiccut/sara",
+      "position": "[object-position:50%_30%]"
+    },
+    {
+      "image": "/images/portfolio/thecinematiccut/thumbnails/IMG_5172.jpg",
+      "name": "Seth",
+      "folder": "thecinematiccut/seth"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "image": "/images/portfolio/loveinfocus/thumbnails/IMG_0019-Enhanced-SR.jpg",
+      "name": "Leah + Colton",
+      "folder": "/loveinfocus/leahandcolton",
+      "position": ""
+    },
+    {
+      "image": "/images/portfolio/loveinfocus/thumbnails/IMG_4443.jpg",
+      "name": "Alex + Kayel",
+      "folder": "/loveinfocus/alexandkayel",
+      "position": "[object-position:50%_15%]"
+    },
+    {
+      "image": "/images/portfolio/loveinfocus/thumbnails/IMG_7879.jpg",
+      "name": "Elijah + Anyi",
+      "folder": "/loveinfocus/elijahandanyi",
+      "position": "[object-position:50%_10%]"
+    },
+    {
+      "image": "/images/portfolio/loveinfocus/thumbnails/IMG_8074.jpg",
+      "name": "Angie",
+      "folder": "/loveinfocus/angie",
+      "position": "[object-position:50%_100%]"
+    },
+    {
+      "image": "/images/portfolio/loveinfocus/thumbnails/IMG_9522.jpg",
+      "name": "Lucas + Caroline",
+      "folder": "/loveinfocus/lucasandcaroline",
+      "position": ""
+    }
+  ]
+  
