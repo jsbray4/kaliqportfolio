@@ -36,7 +36,7 @@ export default function Navbar() {
     <header className="w-full fixed top-0 bg-white p-4 z-10 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
-        <h1 className="font-cinzel text-3xl sm:text-3xl md:text-4xl lg:text-5xl text-gray-800 whitespace-nowrap">
+        <h1 className=" mr-18 font-cinzel text-3xl sm:text-3xl md:text-4xl lg:text-5xl text-gray-800 whitespace-nowrap">
           Kaliq Lowe
         </h1>
 

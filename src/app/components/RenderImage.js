@@ -18,7 +18,7 @@ export default function RenderImage(props) {
         className
       )}
     >
-      <Image
+      <img
         className={clsx(
           '[transition:filter_1500ms_cubic-bezier(.4,0,.2,1)]',
           'h-full max-h-full w-full object-center',
@@ -29,7 +29,6 @@ export default function RenderImage(props) {
         style={{ objectFit: 'cover', ...style }}
         // loading={"lazy"}
         // priority={loading === 'eager'}
-        priority={true}
         // quality={100}
         onLoad={() => setLoaded(true)}
         {...rest}

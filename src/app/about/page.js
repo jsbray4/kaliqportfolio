@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Image from "next/image";
+// import Image from "next/image";
 import { useState, useEffect } from "react";
 
 export default function About() {
@@ -17,12 +17,10 @@ export default function About() {
     <div className="relative min-h-screen flex items-center justify-center p-6 bg-black">
       {/* Background image */}
       <div className="absolute inset-0 z-0 opacity-100 brightness-150">
-        <Image
+        <img
           src="/images/portfolio/about/IMG_2707.jpg"
           alt="Background"
-          fill
-          className="object-cover"
-          priority
+          className="object-cover object-center w-full h-full"
         />
       </div>
 
@@ -35,12 +33,10 @@ export default function About() {
           animate={{ x: 0, opacity: 1 }}
           transition={{ type: "spring", stiffness: 100, damping: 25 }}
         >
-          <Image
+          <img
             src="/images/portfolio/about/IMG_3166.jpg"
             alt="Profile"
-            fill
             className="object-cover rounded-lg border-4 border-white"
-            priority
           />
         </motion.div>
 

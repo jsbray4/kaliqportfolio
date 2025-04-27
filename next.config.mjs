@@ -1,4 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
-
-export default nextConfig;
+const nextConfig = {
+    output: 'export' // Tells Next.js to build a static site
+  };
+  
+  export default nextConfig;
+  
