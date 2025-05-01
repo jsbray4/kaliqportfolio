@@ -1,0 +1,23 @@
+{
+  "rollthecredits/thumbnails/IMG_6795.jpg": {
+    "src": "/images/portfolio/rollthecredits/thumbnails/IMG_6795.jpg",
+    "width": 300,
+    "height": 375,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGOQlZNdv3iOm6szQ2RY6Lcfv+dNn87Aw8cnKi7OxcvDICYuLiwiKiwiAgADfwoXTijQ6wAAAABJRU5ErkJggg=="
+  },
+  "rollthecredits/thumbnails/IMG_7264.jpg": {
+    "src": "/images/portfolio/rollthecredits/thumbnails/IMG_7264.jpg",
+    "width": 300,
+    "height": 450,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMElEQVR4nGPwCwj79ef/6nWbGZQUVUsKCm1snRjKKut09IwZmDkYCoor/YLDBYTFATx/DQG3m9reAAAAAElFTkSuQmCC"
+  },
+  "rollthecredits/thumbnails/IMG_7751.JPG": {
+    "src": "/images/portfolio/rollthecredits/thumbnails/IMG_7751.JPG",
+    "width": 300,
+    "height": 450,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGPIL2+6cGhfdloqQ0tSwP83nzfuuc8Q5+36/s//yt4TDK7B6ZmFExgYFQCqQxN/4b/dZQAAAABJRU5ErkJggg=="
+  }
+}
