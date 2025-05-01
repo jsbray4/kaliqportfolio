@@ -18,7 +18,7 @@ export default function About() {
       {/* Background image */}
       <div className="absolute inset-0 z-0 opacity-100 brightness-150">
         <img
-          src="/images/portfolio/about/IMG_2707.jpg"
+          src="/images/about/IMG_2707.jpg"
           alt="Background"
           className="object-cover object-center w-full h-full"
         />
@@ -34,7 +34,7 @@ export default function About() {
           transition={{ type: "spring", stiffness: 100, damping: 25 }}
         >
           <img
-            src="/images/portfolio/about/IMG_3166.jpg"
+            src="/images/about/IMG_3166.jpg"
             alt="Profile"
             className="object-cover rounded-lg border-4 border-white"
           />

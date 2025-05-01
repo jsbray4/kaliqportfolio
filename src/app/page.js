@@ -30,8 +30,8 @@ export default function Home() {
           {/* Render different images for horizontal screens */}
           <img
             src={isHorizontal 
-              ? '/images/portfolio/home/IMG_6019.jpg'  // For horizontal screens
-              : '/images/portfolio/home/IMG_6019_Vertical.jpg' // For vertical screens
+              ? '/images/home/IMG_6019.jpg'  // For horizontal screens
+              : '/images/home/IMG_6019_Vertical.jpg' // For vertical screens
             }
             alt="Background image of Ella Peach and Care <3"
             className="object-cover object-center lg:object-[center_28%] w-full h-full"

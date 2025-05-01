@@ -1,22 +1,17 @@
-// Your Gallery component
+// app/components/Gallery.jsx or .tsx (assuming it's a server component)
 import path from 'path';
 import fs from 'fs/promises';
-import RenderImage from "@/app/components/RenderImage"
-
-const cacheFile = path.join(process.cwd(), 'public/cache/portfolio.json');
-
-async function loadCache() {
-  const data = await fs.readFile(cacheFile, 'utf8');
-  return JSON.parse(data);
-}
+import RenderImage from '@/app/components/RenderImage';
 
 export default async function Gallery({ folderName }) {
-  let cache;
+  const cacheFile = path.join(process.cwd(), 'public/cache', `${folderName}.json`);
 
+  let cache;
   try {
-    cache = await loadCache();
+    const data = await fs.readFile(cacheFile, 'utf8');
+    cache = JSON.parse(data);
   } catch (error) {
-    console.error("Error loading cache:", error);
+    console.error("❌ Error loading cache:", error);
     return <p>Error loading images.</p>;
   }
 
