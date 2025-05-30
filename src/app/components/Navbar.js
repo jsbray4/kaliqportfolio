@@ -12,7 +12,7 @@ export default function Navbar() {
   const pathname = usePathname();
 
   const handleResize = () => {
-    if (window.innerWidth >= 768) {
+    if (window.innerWidth >= 1024) {
       setIsMobile(false);
       setMenuOpen(false);
       setMobileDropdownOpen(false);
@@ -36,14 +36,14 @@ export default function Navbar() {
     <header className="w-full fixed top-0 bg-white p-4 z-10 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
-        <h1 className=" mr-18 font-cinzel text-3xl sm:text-3xl md:text-4xl lg:text-5xl text-gray-800 whitespace-nowrap">
+        <h1 className=" mr-18 font-cinzel text-4xl sm:text-4xl md:text-4xl lg:text-5xl text-gray-800 whitespace-nowrap">
           <Link href="/">Kaliq Lowe</Link>
         </h1>
 
         {/* Navigation */}
         <nav>
           {/* Desktop Menu */}
-          <ul className="hidden md:flex space-x-10 md:space-x-20 text-gray-800 font-tinos text-xl items-center">
+          <ul className="hidden lg:flex space-x-10 md:space-x-20 text-gray-800 font-tinos text-xl items-center">
             <li className="hover:text-gray-500">
               <Link href="/">Home</Link>
             </li>
@@ -89,7 +89,7 @@ export default function Navbar() {
           {isMobile && (
             <ul
               className={`absolute left-0 w-full bg-white p-4 flex flex-col items-center space-y-4 transition-all duration-300 text-gray-800 font-tinos text-xl ${
-                isMenuOpen ? "block" : "hidden"
+                isMenuOpen ? "opacity-100 max-h-110 pointer-events-auto" : "opacity-0 max-h-0 pointer-events-none"
               } top-full`}
             >
               <li className="hover:text-gray-500">
@@ -144,7 +144,7 @@ export default function Navbar() {
         </nav>
         {/* Hamburger menu */}
         <div
-          className="md:hidden cursor-pointer w-6 h-6 relative"
+          className="lg:hidden cursor-pointer w-6 h-6 relative"
           onClick={() => setMenuOpen(!isMenuOpen)}
         >
           <span

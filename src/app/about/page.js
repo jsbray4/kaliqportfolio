@@ -24,7 +24,7 @@ export default function About() {
         />
       </div>
 
-      <div className="max-w-6xl w-full grid grid-cols-1 md:grid-cols-2 gap-12 items-center z-8 relative">
+      <div className="max-w-6xl w-full grid grid-cols-1 md:grid-cols-2 gap-12 items-center z-8 relative pb-20">
         {/* Animated image block */}
         <motion.div
           layout
