@@ -1,17 +1,24 @@
 {
-  "thecinematiccut/seth/HIMG_5177.jpg": {
-    "src": "/images/portfolio/thecinematiccut/seth/HIMG_5177.jpg",
-    "width": 1000,
-    "height": 800,
-    "isLandscape": true,
-    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMElEQVR4nGNYu3Ftz6SJ06dP+f/rI0NobCwLNy8DC1dPXw+DnIqam5urqJhYQHAIAFCjDbftE9ivAAAAAElFTkSuQmCC"
-  },
-  "thecinematiccut/seth/IMG_5008.jpg": {
-    "src": "/images/portfolio/thecinematiccut/seth/IMG_5008.jpg",
+  "thecinematiccut/seth/IMG_4854.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_4854.jpeg",
     "width": 1000,
     "height": 1500,
     "isLandscape": false,
-    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGNYuH1PelF5f00mg4SwIAsbl4K6BsPiuVPj4mK4BMUY3Pz89UxMf///DgABNA0hPXu4qgAAAABJRU5ErkJggg=="
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGMoSIwQZWBI9nZk+PLulZWB9oNLFxjevHtXVln5888fhqa2lpa2psbGWgBjFxPJZTYKLwAAAABJRU5ErkJggg=="
+  },
+  "thecinematiccut/seth/IMG_4875.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_4875.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGNYNG8WOwNDRngww+v3H8wtLH79/s9QVlsnICG1bfduhtTUeGNj49yMOABPyRAt/whykgAAAABJRU5ErkJggg=="
+  },
+  "thecinematiccut/seth/IMG_4897.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_4897.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGNYtGixjLRkWWE+Q+eEyWYWVj/+/2fQNbVgYOMNCAtjcHdztDAxzogJAAAh+g0CLSDjagAAAABJRU5ErkJggg=="
   },
   "thecinematiccut/seth/IMG_5015.jpg": {
     "src": "/images/portfolio/thecinematiccut/seth/IMG_5015.jpg",
@@ -20,12 +27,33 @@
     "isLandscape": false,
     "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGM4cPhQ98TJ8ya2MIT6uQsyMmjoGzN0drf3ttZqmJgwLF21PDw64v/fbwBE9RDa9pjyVQAAAABJRU5ErkJggg=="
   },
+  "thecinematiccut/seth/IMG_5035.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5035.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM0lEQVR4nAEoANf/AOrKuQwNEnptZwD/8uCckYpfWlUAb2VeWldVHB0dAO3Uw7qnm6eYjmhxElgNZvFdAAAAAElFTkSuQmCC"
+  },
+  "thecinematiccut/seth/IMG_5059.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5059.jpeg",
+    "width": 1000,
+    "height": 1249,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMElEQVR4nGP4//PFlO7WkrwshqmdjaXl1bGxsQw2lmZsvHyqqqoMstLSEkKC6SGeAFIjDLvqQWljAAAAAElFTkSuQmCC"
+  },
   "thecinematiccut/seth/IMG_5138.jpg": {
     "src": "/images/portfolio/thecinematiccut/seth/IMG_5138.jpg",
     "width": 1000,
     "height": 1250,
     "isLandscape": false,
     "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGP48/9/TEL8unVrGRoa6hmYWRcvmM2ga2IqKacQm5zEoKClbefmae/hBQBTNg2mG/22TAAAAABJRU5ErkJggg=="
+  },
+  "thecinematiccut/seth/IMG_5149.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5149.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM0lEQVR4nAEoANf/APb3++Dg4rKvqwD9/f+QlJaOlJQAdnd2AAUKbW1rACs3OA8WGG52eOHtEurbcuP7AAAAAElFTkSuQmCC"
   },
   "thecinematiccut/seth/IMG_5170.jpg": {
     "src": "/images/portfolio/thecinematiccut/seth/IMG_5170.jpg",
@@ -40,5 +68,40 @@
     "height": 1250,
     "isLandscape": false,
     "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGP4/f/fvTu39u7dzaBnbikkJGRvb8vAJSimrKzMyivI0NPTnpIQzcDCDgBWUgzXfZjKRAAAAABJRU5ErkJggg=="
+  },
+  "thecinematiccut/seth/IMG_5219.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5219.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM0lEQVR4nAEoANf/APPv//z5//j1/wD62d+nm5/nztQAzr+5AwMFlIiFAKqyrU5WVY2VkTqbGIUJW1g5AAAAAElFTkSuQmCC"
+  },
+  "thecinematiccut/seth/IMG_5309.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5309.jpeg",
+    "width": 1000,
+    "height": 1250,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM0lEQVR4nAEoANf/ALSyssjFxP/+/gCikouYgnnPy8sAeX1+JikqREtOAFRYWAAFBSoxMsJLEYFv0roDAAAAAElFTkSuQmCC"
+  },
+  "thecinematiccut/seth/IMG_5333.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5333.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGN4c+/i6/tX/v97x5BblKujbzh93jQG37AwBiYWBzc3BnsvLzVNTc/gYACb7w/NeINfBAAAAABJRU5ErkJggg=="
+  },
+  "thecinematiccut/seth/IMG_5371.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5371.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAM0lEQVR4nAEoANf/APj18vTv7v/8+AC2o5d4bmXXwrQAenZsKCgnlY+FACksKQAFAzo7N/DJEtpIirK1AAAAAElFTkSuQmCC"
+  },
+  "thecinematiccut/seth/IMG_5392.jpeg": {
+    "src": "/images/portfolio/thecinematiccut/seth/IMG_5392.jpeg",
+    "width": 1000,
+    "height": 1500,
+    "isLandscape": false,
+    "blurURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAECAIAAADETxJQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nGP4+/vvj+8/vn35yjC9t6MoN7OvpY6htamWkZ2rMDeDQVdHQ0REwMnRGgDVvRGT4VoQ1wAAAABJRU5ErkJggg=="
   }
 }
