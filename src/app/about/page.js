@@ -43,7 +43,7 @@ export default function About() {
         {/* Animated text block */}
         <motion.div
           layout
-          className="text-gray-700 bg-white/90 rounded-lg px-6 py-4 border-4 border-white font-fell w-full"
+          className="text-gray-700 bg-white/90 rounded-lg px-6 py-10 font-tinos w-full"
           initial={{ x: 1000, opacity: 0.95 }}
           animate={{ x: 0, opacity: 0.95 }}
           transition={{ type: "spring", stiffness: 100, damping: 25 }}
@@ -51,7 +51,7 @@ export default function About() {
           <p className="text-xl md:text-2xl lg:text-3xl font-bold leading-relaxed">
             Kaliq Lowe <br/> Photographer | Storyteller | Visual Artist<br/>
           </p>
-          <p className="text-lg md:text-xl lg:text-2xl leading-relaxed">
+          <p className="text-lg md:text-xl lg:text-xl leading-relaxed">
             <br/>Born in New York and raised in Antigua, I’m a portrait photographer based in Orlando, Florida. I’m passionate about telling stories through photography, capturing the raw emotions and unique moments that define who we are. Every portrait is an opportunity to preserve a connection, a story, and a memory.
             <br/><br/>Let’s make something unforgettable together.
           </p>

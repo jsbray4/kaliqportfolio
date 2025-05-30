@@ -36,7 +36,7 @@ export default async function Carousel({ portfolioName }) {
                   alt={item.name}
                   className={`object-cover w-full h-full rounded-lg ${item.position ?? "object-center"}`}
                 />
-                <div className="absolute bottom-0 left-0 right-0 bg-gray-200 opacity-90 text-gray-800 text-center p-2 rounded-b-lg text-xs sm:text-sm md:text-base">
+                <div className="absolute bottom-0 left-0 right-0 bg-gray-200 opacity-90 text-gray-800 text-center p-2 rounded-b-lg text-lg sm:text-lg md:text-lg font-tinos">
                   <span>{item.name}</span>
                 </div>
               </div>

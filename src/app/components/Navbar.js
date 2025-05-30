@@ -37,15 +37,18 @@ export default function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
         <h1 className=" mr-18 font-cinzel text-3xl sm:text-3xl md:text-4xl lg:text-5xl text-gray-800 whitespace-nowrap">
-          Kaliq Lowe
+          <Link href="/">Kaliq Lowe</Link>
         </h1>
 
         {/* Navigation */}
         <nav>
           {/* Desktop Menu */}
-          <ul className="hidden md:flex space-x-10 md:space-x-20 text-gray-800 tracking-[.15em] items-center">
+          <ul className="hidden md:flex space-x-10 md:space-x-20 text-gray-800 font-tinos text-xl items-center">
             <li className="hover:text-gray-500">
               <Link href="/">Home</Link>
+            </li>
+            <li className="hover:text-gray-500">
+              <Link href="/about">About</Link>
             </li>
             <li className="relative group">
               <div className="cursor-pointer hover:text-gray-500">
@@ -66,7 +69,7 @@ export default function Navbar() {
               </ul>
             </li>
             <li className="hover:text-gray-500">
-              <Link href="/about">About</Link>
+              <Link href="/pricing">Pricing</Link>
             </li>
             <li className="hover:text-gray-500">
               <Link href="/contact">Contact</Link>
@@ -85,7 +88,7 @@ export default function Navbar() {
           {/* Mobile Menu */}
           {isMobile && (
             <ul
-              className={`absolute left-0 w-full bg-white p-4 flex flex-col items-center space-y-4 transition-all duration-300 text-gray-800 tracking-[.15em] ${
+              className={`absolute left-0 w-full bg-white p-4 flex flex-col items-center space-y-4 transition-all duration-300 text-gray-800 font-tinos text-xl ${
                 isMenuOpen ? "block" : "hidden"
               } top-full`}
             >
