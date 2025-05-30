@@ -95,7 +95,9 @@ export default function Navbar() {
               <li className="hover:text-gray-500">
                 <Link href="/">Home</Link>
               </li>
-
+              <li className="hover:text-gray-500">
+                <Link href="/about">About</Link>
+              </li>
               {/* Mobile Portfolio Dropdown */}
               <li className="relative flex flex-col items-center">
                 <div
@@ -122,9 +124,8 @@ export default function Navbar() {
                   </li>
                 </ul>
               </li>
-
               <li className="hover:text-gray-500">
-                <Link href="/about">About</Link>
+                <Link href="/pricing">Pricing</Link>
               </li>
               <li className="hover:text-gray-500">
                 <Link href="/contact">Contact</Link>
@@ -141,25 +142,24 @@ export default function Navbar() {
             </ul>
           )}
         </nav>
-
-        {/* Hamburger Icon */}
+        {/* Hamburger menu */}
         <div
-          className="md:hidden cursor-pointer"
+          className="md:hidden cursor-pointer w-6 h-6 relative"
           onClick={() => setMenuOpen(!isMenuOpen)}
         >
           <span
-            className={`block w-6 h-1 bg-gray-800 mb-2 transition-transform duration-300 ${
-              isMenuOpen ? "rotate-45 translate-y-2" : ""
+            className={`absolute left-0 top-1/2 w-full h-0.5 bg-gray-800 transform transition duration-300 ease-in-out ${
+              isMenuOpen ? "rotate-45" : "-translate-y-2"
             }`}
           />
           <span
-            className={`block w-6 h-1 bg-gray-800 mb-2 transition-opacity duration-300 ${
-              isMenuOpen ? "opacity-0" : "opacity-100"
+            className={`absolute left-0 top-1/2 w-full h-0.5 bg-gray-800 transition-opacity duration-300 ease-in-out ${
+              isMenuOpen ? "opacity-0" : ""
             }`}
           />
           <span
-            className={`block w-6 h-1 bg-gray-800 mb-2 transition-transform duration-300 ${
-              isMenuOpen ? "-rotate-45 -translate-y-2" : ""
+            className={`absolute left-0 top-1/2 w-full h-0.5 bg-gray-800 transform transition duration-300 ease-in-out ${
+              isMenuOpen ? "-rotate-45" : "translate-y-2"
             }`}
           />
         </div>
