@@ -1,6 +1,6 @@
 export default function PricingPage() {
   return (
-    <main className="p-6 max-w-4xl mx-auto font-tinos text-neutral-800">
+    <main className="bg-white p-6 max-w-4xl mx-auto font-tinos text-neutral-800">
       {/* <h1 className="text-5xl font-extrabold mb-10 text-center">Kaliq Lowe Photography</h1> */}
       <h2 className="text-5xl font-extrabold mb-12 text-center">Pricing Guide</h2>
 
@@ -77,17 +77,6 @@ export default function PricingPage() {
 
         <p className="mt-6 text-base font-medium text-xl">Custom packages available on request.</p>
       </section>
-
-      {/* Footer
-      <footer className="border-t pt-6 mt-12 text-center text-sm text-gray-600">
-        <p>
-          Contact:{" "}
-          <a href="mailto:kaliglowe@gmail.com" className="text-blue-600 hover:underline">
-            kaliglowe@gmail.com
-          </a>{" "}
-          | (407) 726 6200
-        </p>
-      </footer> */}
     </main>
   );
 }
