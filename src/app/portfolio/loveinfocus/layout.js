@@ -4,7 +4,7 @@ import Carousel from '@/app/components/Carousel';
 
 export default function Layout({ children }) {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen">
       <Carousel portfolioName="loveinfocus" />
       <div>{children}</div>
     </div>

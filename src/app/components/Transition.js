@@ -11,7 +11,7 @@ export default function Transition(){
         {/* Page Transition Overlay */}
         <motion.div
           key={pathname} // Runs on every route change
-          className="fixed inset-0 bg-white z-50 pointer-events-none"
+          className="fixed inset-0 bg-white dark:bg-gray-800 z-50 pointer-events-none"
           initial={{ opacity: 1 }}
           animate={{ opacity: 0 }}
         //   exit={{ opacity: 1 }}

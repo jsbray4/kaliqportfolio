@@ -1,6 +1,6 @@
 export default function PricingPage() {
   return (
-    <main className="bg-white p-6 max-w-4xl mx-auto font-tinos text-neutral-800">
+    <main className="p-6 max-w-4xl mx-auto font-tinos text-neutral-800 dark:text-gray-200">
       {/* <h1 className="text-5xl font-extrabold mb-10 text-center">Kaliq Lowe Photography</h1> */}
       <h2 className="text-5xl font-extrabold mb-12 text-center">Pricing Guide</h2>
 

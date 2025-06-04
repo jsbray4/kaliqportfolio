@@ -20,7 +20,7 @@ export default function About() {
         <img
           src="/images/about/IMG_2707.jpg"
           alt="Background"
-          className="object-cover object-center w-full h-full"
+          className="object-cover object-center w-full h-full dark:opacity-70"
         />
       </div>
 
@@ -36,14 +36,14 @@ export default function About() {
           <img
             src="/images/about/IMG_3166.jpg"
             alt="Profile"
-            className="object-cover rounded-lg border-4 border-white"
+            className="object-cover rounded-lg border-4 border-white dark:border-gray-900"
           />
         </motion.div>
 
         {/* Animated text block */}
         <motion.div
           layout
-          className="text-gray-700 bg-white/90 rounded-lg px-6 py-10 font-tinos w-full"
+          className="text-gray-700 bg-white/90 dark:bg-gray-900/90 dark:text-gray-200 rounded-lg px-6 py-10 font-tinos w-full"
           initial={{ x: 1000, opacity: 0.95 }}
           animate={{ x: 0, opacity: 0.95 }}
           transition={{ type: "spring", stiffness: 100, damping: 25 }}

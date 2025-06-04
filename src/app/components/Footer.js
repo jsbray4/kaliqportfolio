@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-800 text-white p-6">
+    <footer className="bg-gray-800 text-gray-200 p-6">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 font-tinos">
         {/* Left Section: Navigation Links (hidden on mobile) */}
         <div className="flex items-center hidden md:flex text-xl">

@@ -2,8 +2,8 @@
 
 export default function Contact() {
   return (
-    <div className="min-h-screen bg-white flex items-start justify-center p-6 pt-16 font-tinos">
-      <div className="text-left text-gray-800">
+    <div className="min-h-screen flex items-start justify-center p-6 pt-16 font-tinos">
+      <div className="text-left text-gray-800 dark:text-gray-200">
         {/* tracking-[.15em] */}
         <h1 className="text-3xl md:text-4xl mb-4">Contact</h1>
         <p className="text-xl md:text-2xl">

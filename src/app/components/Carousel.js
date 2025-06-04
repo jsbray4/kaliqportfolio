@@ -25,7 +25,7 @@ export default async function Carousel({ portfolioName }) {
   }
 
   return (
-    <div className="bg-gray-100 py-4 shadow-md">
+    <div className="bg-gray-100 dark:bg-gray-900 py-4 shadow-md">
       <div className="flex gap-2 justify-start items-center overflow-x-auto py-2 px-4">
         {portfolioItems.map((item, index) => (
           <Link key={index} href={`/portfolio/${item.folder}`}>
@@ -36,7 +36,7 @@ export default async function Carousel({ portfolioName }) {
                   alt={item.name}
                   className={`object-cover w-full h-full rounded-lg ${item.position ?? "object-center"}`}
                 />
-                <div className="absolute bottom-0 left-0 right-0 bg-gray-200 opacity-90 text-gray-800 text-center p-2 rounded-b-lg text-lg sm:text-lg md:text-lg font-tinos">
+                <div className="absolute bottom-0 left-0 right-0 bg-gray-200 dark:bg-gray-800 opacity-90 text-gray-800 dark:text-gray-200 text-center p-2 rounded-b-lg text-lg sm:text-lg md:text-lg font-tinos">
                   <span>{item.name}</span>
                 </div>
               </div>
